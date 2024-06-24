@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**shusritavenugopal/shusritavenugopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shusrita Venugopal, currently pursuing a Master's in Information Science at the University of Pittsburgh with a focus on Machine Learning and Cloud Computing. I'm passionate about exploring new areas of machine learning and creating impactful projects.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=shusritavenugopal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[Portfolio](https://shusritavenugopal.github.io/shusrita-venugopal/) | [LinkedIn](https://www.linkedin.com/in/shusrita-venugopal/) 
+
+### Coding Profile:
+
+[LeetCode](https://leetcode.com/u/shusritavenugopal/)
+
+Feel free to reach out to me at [shusritavenugopal@gmail.com](mailto:shusritavenugopal@gmail.com) for collaborations.
